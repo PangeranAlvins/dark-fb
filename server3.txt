@@ -1,0 +1,21 @@
+import subprocess,os
+raw_input("""TOLLS TELAH DI UPDATE 
+JIKA ADA MAO MENGGUNAKAN TOOLS INI TULIS ( bash install.sh )
+
+JIKA KALIAN MAO MENGGUNAKAN  TOOLS TOLONG SUBCRIBE YA 
+SEPSIAL 1000 SUBCRIBE SAYA UPLOAD CARA HACK INSTAGRAM / CARA MENGGUNAKAN SCRPT DARK FB 
+
+Link channel : https://www.youtube.com/c/PangeranAlvins
+NAMA CHANNEL : Pangeran Alvins
+
+JANGAN LUPA LIKE & SUBSCRIBE LALU SHARE
+
+TEKAN ENTER UNTUK CHAT KE WHASTAPP
+
+KALO ADA MASALAH WA : 082211661007
+
+VIA WHATSAPP!!!!1!1!1
+""")
+subprocess.check_output(["am","start","https://www.youtube.com/c/PangeranAlvins"])
+
+
