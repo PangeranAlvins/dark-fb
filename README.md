@@ -7,8 +7,7 @@
 $ pkg install git<br>
 $ pkg install curl<br>
 $ git clone https://github.com/PangeranAlvins/dark-fb<br>
-$ cd dark-fb<br>
-$ bash install.sh<br><br>
+$ cd dark-fb<br><br>
 <h1>Menu Tools</h1><br>
 <img src="https://github.com/PangeranAlvins/dark-fb/blob/master/menu.png"/>
 <br><h1>Account Checker</h1><br>
